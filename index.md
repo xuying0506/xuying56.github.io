@@ -2,9 +2,9 @@
 layout: page
 ---
 
-#Welcome
+# Welcome
 <img src="https://xuying0506.github.io/ying.JPG" class="floatpic" width="360" height="360">
-
+<br>
 Here is **Xu Ying(徐颖)**.
 I am a PhD candidate in Economics and Education at Teachers College, Columbia University. 
 <br>
