@@ -2,13 +2,12 @@
 layout: default
 ---
 
-# Home
+# Welcome
 
 <img src="https://xuying0506.github.io/ying.JPG" class="floatpic" width="360" height="360">
 
 Here is **Xu Ying(徐颖)**.
-
-Welcome! I am a PhD candidate in Economics and Education at Teachers College, Columbia University. My primary research interests are in Economics and Education and Industrial Organization, with a special focus on the competitive forces in education market, school finance, and climate change impacts on human capital development. My research uses quasi-experimental methods and structural modeling to understand the effects of public policies or events on student outcomes and inequality, and the mechanisms underlying the effects.
+I am a PhD candidate in Economics and Education at Teachers College, Columbia University. My primary research interests are in Economics and Education and Industrial Organization, with a special focus on the competitive forces in education market, school finance, and climate change impacts on human capital development. My research uses quasi-experimental methods and structural modeling to understand the effects of public policies or events on student outcomes and inequality, and the mechanisms underlying the effects.
 
 You can reach me at yx2471@tc.columbia.edu.
 
