@@ -3,7 +3,7 @@ layout: page
 ---
 
 # Welcome
-#<img src="https://xuying0506.github.io/ying.JPG" class="floatpic" width="360" height="360">
+
 <img src="https://xuying0506.github.io/ying.JPG" width="360" height="360">
 <br>
 Here is **Xu Ying(徐颖)**.
