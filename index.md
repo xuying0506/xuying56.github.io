@@ -2,9 +2,12 @@
 layout: page
 ---
 
-# Ying Xu(徐颖)
+# Ying Xu
 
 <img src="https://xuying0506.github.io/ying.JPG" width="360" height="360">
+
+
+
 <br>
 I am a PhD candidate in Economics and Education at Teachers College, Columbia University. 
 <br>
