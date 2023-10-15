@@ -9,7 +9,7 @@ layout: page
 
 
 <br>
-I am a PhD candidate in Economics and Education at Teachers College, Columbia University. 
+Welcome! I am a PhD candidate in Economics and Education at Teachers College, Columbia University. 
 <br>
 - My primary research interests are in Economics and Education and Industrial Organization, with a special focus on the competitive forces in education market, school finance, and climate change impacts on human capital development. 
 <br>
