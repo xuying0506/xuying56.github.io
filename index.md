@@ -1,25 +1,30 @@
+
+
+
+
 ---
-layout: page
+permalink: /
+title: "Welcome!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-# Ying Xu
 
-<img src="https://xuying0506.github.io/ying.JPG" width="360" height="360">
+<!-- <div class="figure_aboutme">
+ <img src="https://xuying0506.github.io/ying.JPG" width="360" height="360">
+</div> -->
 
+I am a Ph.D. candidate in Economics at Yale University.
 
+My research interests are in Industrial Organization, Economics of Education, and Applied Econometrics.
 
-<br>
-Welcome! I am a PhD candidate in Economics and Education at Teachers College, Columbia University. 
-<br>
-- My primary research interests are in Economics and Education and Industrial Organization, with a special focus on the competitive forces in education market, school finance, and climate change impacts on human capital development. 
-<br>
-- My research uses quasi-experimental methods and structural modeling to understand the effects of public policies or events on student outcomes and inequality, and the mechanisms underlying the effects.
-<br>
-- You can reach me at yx2471@tc.columbia.edu.
-<br>
-- I am on the job market during the 2023-2024 academic year.
+I am on the 2023-24 job market.
 
+You can reach me at [fernando.cordeiro@yale.edu](mailto:fernando.cordeiro@yale.edu).
 
-<br>
+You can find my [CV here](https://fpcordeiro.github.io/files/Cordeiro_Fernando_CV.pdf).
 
 
